@@ -34,8 +34,8 @@ Paul et al. (2022) — perchlorate toxicity in real Mars regolith
 
 ## How to run
 ### 1. clone the repo
-git clone https://github.com/yourusername/regolith-habitability
-cd regolith-habitability
+git clone https://github.com/skan06-md/Soil_habitability_scoring
+cd Soil_habitability_scoring
 
 ### 2. install dependencies
 pip install pandas numpy matplotlib scikit-learn xgboost openpyxl jupyter
