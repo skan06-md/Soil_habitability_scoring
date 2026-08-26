@@ -1,0 +1,4 @@
+soil,pH,N_NH4_mgkg,N_NO3NO2_mgkg,P_PO4_mgkg,K_mgkg,Al_mgkg,C_total_gkg
+Earth,8.3,0.5,4.2,0.0,4.7,0.0,3.2
+Moon,9.6,0.3,4.2,0.2,27.0,0.5,3.0
+Mars,7.3,3.9,2.1,0.0,138.0,0.0,30.1
