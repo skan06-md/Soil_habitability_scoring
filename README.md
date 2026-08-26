@@ -47,10 +47,15 @@ jupyter notebook
 There are some important limitations to our model. Knowing these limitations makes our project more honest and credible.
 
 Perchlorate was not included: Real Mars soil contains a toxic chemical called perchlorate. The Mars soil used in the study did not include it, so our model may make Mars soil look more suitable for plants than it really is.
+
 Phosphorus was not used: All the soil samples had very little phosphorus. Since there was not enough difference between the soils, we kept the information for transparency but did not use phosphorus in the model.
+
 Nitrogen and potassium limits are estimates: We could not find exact limits for nitrogen and potassium for this type of soil. The values we used are reasonable estimates, but they have not been officially validated.
+
 Only three soils were tested: We tested the model using Earth, Moon, and Mars soils. Getting all three correct is encouraging, but three examples are not enough to prove that the model will always work.
+
 The model follows the rubric: Our model is designed to follow the scoring rubric. This means it can score new soil samples, but it cannot consider factors that are not included in the rubric.
+
 Water retention was not included: Moon soil does not hold water very well, which can affect plant growth. However, the original data did not include water-retention measurements, so we could not include this factor in our model.
 
 ## Honest Scope of the Model
@@ -61,6 +66,9 @@ However, it does not predict exactly what would happen to plants on the real sur
 
 ## Possible Next Steps
 Add perchlorate: Include perchlorate as a factor because it can be toxic to plants.
+
 Test more soils: Use more soil samples to make the model more reliable.
+
 Create a web interface: Build a simple website where users can enter soil values and get a score immediately.
+
 Test with more experiments: Compare the model's results with results from other independent plant-growth experiments.
