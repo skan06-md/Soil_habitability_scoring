@@ -59,7 +59,7 @@ Our model predicts how suitable different volcanic-rock-based soil simulants are
 
 However, it does not predict exactly what would happen to plants on the real surface of Mars or the Moon, because real regolith contains other factors that are not included in our model.
 
-##Possible Next Steps
+## Possible Next Steps
 Add perchlorate: Include perchlorate as a factor because it can be toxic to plants.
 Test more soils: Use more soil samples to make the model more reliable.
 Create a web interface: Build a simple website where users can enter soil values and get a score immediately.
